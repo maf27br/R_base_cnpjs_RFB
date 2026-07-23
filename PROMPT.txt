@@ -1,0 +1,3 @@
+Projeto BASE_RFB.
+
+Usando a base de dados aberta da RFB com os CNPJs cadastrados, foi executado um script R que baixa os arquivos, descompacta e cria um unico arquivo banco de dados sqlite, portavel para outros 
